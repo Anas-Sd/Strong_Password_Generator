@@ -155,7 +155,7 @@ Contributions are welcome! Here's how:
 <p align="center">
 <a href="https://github.com/Anas-Sd"><img src="https://img.shields.io/badge/GitHub-Anas--Sd-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/syedanas-sd"><img src="https://img.shields.io/badge/LinkedIn-Syed_Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:anasannu44455@gmail.com"><img src="https://img.shields.io/badge/Email-anasannu44455@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sdanasbtech@gmail.com"><img src="https://img.shields.io/badge/Email-sdanasbtech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://syedanas.me"><img src="https://img.shields.io/badge/Portfolio-syedanas.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
