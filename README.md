@@ -4,8 +4,7 @@
 
 *Select your criteria. Generate strong passwords. Stay secure.*
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Password_Generator-FF6B6B?style=for-the-badge)](https://your-demo-link.vercel.app)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Syed_Anas-00D9FF?style=for-the-badge)](https://syedanas.me)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Password_Generator-FF6B6B?style=for-the-badge)](https://password-chesko.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Anas-Sd/Strong_Password_Generator?style=for-the-badge&color=gold)](https://github.com/Anas-Sd/Password-Generator)
 [![GitHub Forks](https://img.shields.io/github/forks/Anas-Sd/Strong_Password_Generator?style=for-the-badge&color=8B5CF6)](https://github.com/Anas-Sd/Password-Generator)
